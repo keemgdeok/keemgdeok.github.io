@@ -16,6 +16,8 @@ timezone: Asia/Seoul
 
 title: scv # the main title
 
+future: true
+
 tagline: keemgdeok # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
